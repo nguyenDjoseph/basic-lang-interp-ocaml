@@ -4,5 +4,5 @@
 *.cmo
 *.deps
 
-.DS_Store
+DS_Store
 using
